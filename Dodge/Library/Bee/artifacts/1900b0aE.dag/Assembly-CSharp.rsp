@@ -357,7 +357,9 @@
 -analyzer:"D:/Unity/2022.3.13f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Script/Bullet.cs"
 "Assets/Script/BulletSpawner.cs"
+"Assets/Script/GameManager.cs"
 "Assets/Script/PlayerController.cs"
+"Assets/Script/Rotator.cs"
 -langversion:9.0
 
 /deterministic
